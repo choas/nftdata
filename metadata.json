@@ -1,11 +1,11 @@
 {
-    "name": "some NFT",
-    "description": "this is an NFT example",
+    "name": "TDD NFT",
+    "description": "Do you do TDD?",
     "image": "",
     "attributes": [
         {
-            "timestamp": "",
-            "weather": ""
+            "timestamp": "1655510400000",
+            "celsius": "25"
         }
     ]
 }
